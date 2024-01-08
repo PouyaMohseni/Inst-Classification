@@ -1,2 +1,2 @@
-# Inst-Classification
-Instrument Classification in Persian Traditional Music
+# Instrument Classification in Persian Traditional Music
+
